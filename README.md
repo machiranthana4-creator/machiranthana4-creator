@@ -68,7 +68,7 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/machiranthana4-creator/machiranthana4-creator/snake-output/snake.svg" alt="Snake animation" />
+
 
 ###
 
