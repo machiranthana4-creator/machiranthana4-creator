@@ -45,7 +45,7 @@ through academic projects, personal projects, and hands-on learning.
 I am currently focused on strengthening my programming fundamentals and building a professional portfolio
 through GitHub.
 </p>
-###
+
 
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
