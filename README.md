@@ -32,8 +32,19 @@
 
 ###
 
-<p data-importer="text" align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
+<p>
+I am an enthusiastic Information Technology student with a strong interest in
+software development, web technologies, and emerging digital solutions.
+I am continuously developing my technical knowledge and practical skills
+through academic projects, personal projects, and hands-on learning.
+</p>
+
+
+<p>
+I am currently focused on strengthening my programming fundamentals and building a professional portfolio
+through GitHub.
+</p>
 ###
 
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
